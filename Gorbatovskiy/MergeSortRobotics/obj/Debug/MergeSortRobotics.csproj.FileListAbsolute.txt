@@ -1,7 +1,0 @@
-E:\Учеба\Гай\C#\MergeSortRobotics\MergeSortRobotics\bin\Debug\MergeSortRobotics.exe.config
-E:\Учеба\Гай\C#\MergeSortRobotics\MergeSortRobotics\bin\Debug\MergeSortRobotics.exe
-E:\Учеба\Гай\C#\MergeSortRobotics\MergeSortRobotics\bin\Debug\MergeSortRobotics.pdb
-E:\Учеба\Гай\C#\MergeSortRobotics\MergeSortRobotics\obj\Debug\MergeSortRobotics.csprojResolveAssemblyReference.cache
-E:\Учеба\Гай\C#\MergeSortRobotics\MergeSortRobotics\obj\Debug\MergeSortRobotics.exe
-E:\Учеба\Гай\C#\MergeSortRobotics\MergeSortRobotics\obj\Debug\MergeSortRobotics.pdb
-E:\Учеба\Гай\C#\MergeSortRobotics\MergeSortRobotics\bin\Debug\Microsoft.Ccr.Core.dll
